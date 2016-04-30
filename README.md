@@ -9,7 +9,7 @@ Stanford NLP Parser Java Archive
 
 #Execution:
 
-Since I currently do not have permission to access normal users' Facebook accounts, this system cannot work fully automaticly for now. But you could run each major module in this system separately.
+Since I currently do not have permission to access normal users' Facebook accounts, this system cannot work fully automaticly for now. But you could run each major module in this system separately. You may encounter some error since the NLP Parser is too large to upload here
 
 In order to see the result of each module, you could run "recommendation_system.py" with arguments.
 
