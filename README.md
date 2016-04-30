@@ -13,7 +13,7 @@ Since I currently do not have permission to access normal users' Facebook accoun
 
 In order to see the result of each module, you could run "recommendation_system.py" with arguments.
 
-	python recommendation_system.py [argument] (e.g. python recommendation_system.py -urls)
+	python recommendation_system.py [argument]
 
 #Argument options:
 
